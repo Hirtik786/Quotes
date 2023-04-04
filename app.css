@@ -1,0 +1,24 @@
+body{
+    /* position: relative !important; */
+}
+h1{
+    text-align: center;
+    color: maroon !important;
+    /* background-color: white !important; */
+    border: 10px solid maroon !important;
+    margin-bottom: 20px !important;
+}
+.col{
+    background-color: maroon;
+    color: white;
+    border: 10px solid white;
+    /* width: 300px !important; */
+    padding: 30px !important;
+    text-align: center;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100% !important;
+}
