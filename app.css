@@ -5,10 +5,11 @@ h1{
     border: 10px solid maroon !important;
     margin-bottom: 20px !important;
 }
-.col{
+.quotes{
     background-color: maroon;
     color: white;
     border: 10px solid white;
+    /* margin: 10px; */
     /* width: 300px !important; */
     padding: 30px !important;
     text-align: center;
